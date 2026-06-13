@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF71B&random=false&width=435&lines=Im+Loxy+bro" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF71B&random=false&width=435&lines=Hi+Kael+I+see+you" alt="Typing SVG" /></a>
 
 
 - 🔭 Je travaille actuellement sur **REDTIGER-TOOLS**
